@@ -22,8 +22,8 @@ img{
 #p1
 {
   position:absolute;
-  left: 49.7%;
-  bottom:56%;
+  left:32rem;
+  top:8.2rem;
   width:2px;
   height:200px;
   background-color: black;
@@ -32,8 +32,8 @@ img{
 }
 #p2{
   position: absolute;
-  bottom:56%;
-  left:49.7%;
+  top:11rem;
+  left:32rem;
   width:6px;
   height:160px;
   background-color: black;
@@ -43,9 +43,9 @@ img{
 #p3
 {
   position: absolute;
-  bottom:55.8%;
-  left:49.6%;
-  
+  top:14.3rem;
+  left:31.8rem;
+  top:
   width: 10px;
   height: 100px;
   background-color: black;
